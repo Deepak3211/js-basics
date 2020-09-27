@@ -410,7 +410,7 @@ var db = [
 
 var newsFeed = [
   {
-    username : ' Sonia',
+    username : ' Smith',
     timeline: ' Feeling bored 😄'
   },
   {
@@ -513,7 +513,7 @@ var db = [
 
 var newsFeed = [
   {
-    username : ' Sonia',
+    username : ' Smith',
     timeline: ' Feeling bored 😄'
   },
   {
